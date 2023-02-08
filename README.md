@@ -9,9 +9,10 @@ Followed by the breakdown of customer types. Subscriber or non-subscriber(custom
 
 # ![](Images/Checkout%20Time%20for%20Users.png)
 ![](Images/Starting%20Locations.png)
-![](Images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
+
 ![](Images/Trips%20by%20Weekday%20per%20Hour.png)
 ![](Images/User%20Trips%20by%20Gender%20by%20Weekday.png)
 ![](Images/Checkout%20Times%20by%20Gender.png)
+![](Images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
 ## Summary 
 [Link to Destin Kronenwetter Tableau Public](https://public.tableau.com/app/profile/destin.kronenwetter6350/viz/Challenge15_16757977793120/Dashboard1Users?publish=yes)
